@@ -1,16 +1,50 @@
-### Hi there 👋
+```  
+                                  ________________________________________________
+                                 /                                                \
+                                |    _________________________________________     |
+                                |   |                                         |    |
+                                |   |                                         |    |
+                                |   |                                         |    |
+                                |   |                                         |    |
+                                |   |            ╔╦╗┌─┐┬ ┬┬─┐┌─┐┌┐┌           |    |
+                                |   |            ║║║├┤ ├─┤├┬┘├─┤│││           |    |
+                                |   |            ╩ ╩└─┘┴ ┴┴└─┴ ┴┘└┘           |    |
+                                |   |          ╦═╗┌─┐┌┬┐╦═╗┌─┐┌─┐┌─┐          |    |
+                                |   |          ╠╦╝├┤  ││╠╦╝│ │└─┐├┤           |    |
+                                |   |          ╩╚═└─┘─┴┘╩╚═└─┘└─┘└─┘          |    |
+                                |   |                                         |    |
+                                |   |                                         |    |
+                                |   |                                         |    |
+                                |   |_________________________________________|    |
+                                |                                                  |
+                                \_________________________________________________/
+                                       \___________________________________/
+                                    ___________________________________________
+                                 _-'    .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.  --- `-_
+                              _-'.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.--.  .-.-.`-_
+                           _-'.-.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-`__`. .-.-.-.`-_
+                        _-'.-.-.-.-. .-----.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-----. .-.-.-.-.`-_
+                     _-'.-.-.-.-.-. .---.-. .-------------------------. .-.---. .---.-.-.-.`-_
+                    :-------------------------------------------------------------------------:
+                    `---._.-------------------------------------------------------------._.---'
+                          
+```                                                                                   
 
-<!--
-**mehranredrose/mehranredrose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://forthebadge.com)
+
+## ⚡ Skills
+![c++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c%2B%2B&color=blue)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&color=gold)
+![django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django&logoColor=darkgreen)
+
+![mehranredrose](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django&logoColor=darkgreen)
+![Custom badge](https://img.shields.io/endpoint?color=black&label=Mehran&logo=c%2B%2B&logoColor=gold&style=for-the-badge)
+
