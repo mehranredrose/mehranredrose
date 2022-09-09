@@ -11,33 +11,22 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=mehranredrose&style=flat-square&color=blue" alt=""/>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehranredrose&label=Profile%20views&color=0e75b6&style=flat" alt="mehranredrose" /> </p>
+<img src="https://komarev.com/ghpvc/?username=mehranredrose&style=flat-square&color=blue" alt="mehranredrose"/>
   <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+- 🔭 I’m currently working on **Pyqt6**
+
+- 🌱 I’m currently learning **Django**
+
+- 📫 How to reach me **mehranredrose@gmail.com**
   <p align="left"> <a href="https://twitter.com/mehranredrose" target="blank"><img src="https://img.shields.io/twitter/follow/mehranredrose?logo=twitter&style=for-the-badge" alt="mehranredrose" /></a> </p>
 </div>
 
 
 
 
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://forthebadge.com)
-
-## ⚡ Skills
-<h3 align="center">A passionate developer from Iran</h3>
-
-
-
-- 🔭 I’m currently working on **Pyqt6**
-
-- 🌱 I’m currently learning **Django**
-
-- 📫 How to reach me **mehranredrose@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -55,5 +44,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mehranredrose"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mehranredrose" /></a></p><br><br>
+<a href="https://github.com/mehranredrose" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg" alt="mehranredrose" height="30" width="40" /></a>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehranredrose&show_icons=true&locale=en&layout=compact" alt="mehranredrose" /></p>
