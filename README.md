@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" height="100" width="200"/>
 </div>
 
-<div id="badges">
+<div id="header">
   <a href="www.linkedin.com/in/mehranredrose">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
