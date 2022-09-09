@@ -11,11 +11,13 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=mehranredrose&style=flat-square&color=blue" alt=""/>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehranredrose&label=Profile%20views&color=0e75b6&style=flat" alt="mehranredrose" /> </p>
   <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+  <p align="left"> <a href="https://twitter.com/mehranredrose" target="blank"><img src="https://img.shields.io/twitter/follow/mehranredrose?logo=twitter&style=for-the-badge" alt="mehranredrose" /></a> </p>
 </div>
 
 
@@ -27,11 +29,9 @@
 [![forthebadge](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://forthebadge.com)
 
 ## ⚡ Skills
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from Iran</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehranredrose&label=Profile%20views&color=0e75b6&style=flat" alt="mehranredrose" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mehranredrose" target="blank"><img src="https://img.shields.io/twitter/follow/mehranredrose?logo=twitter&style=for-the-badge" alt="mehranredrose" /></a> </p>
 
 - 🔭 I’m currently working on **Pyqt6**
 
