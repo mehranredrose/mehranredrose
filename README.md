@@ -17,8 +17,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
-<div><br>
-- 🔭 I’m currently working on **Pyqt6**
+<div>
+  - 🔭 I’m currently working on **Pyqt6**
 
 - 🌱 I’m currently learning **Django**
 
