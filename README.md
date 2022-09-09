@@ -3,9 +3,15 @@
 </div>
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="www.linkedin.com/in/mehranredrose">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    ![mehranredrose](https://img.shields.io/badge/-MehranRedRose-black?style=for-the-badge&logo=Buy%20Me%20A%20Coffee&logoColor=gold)
+  </a>
+  <a href="https://twitter.com/Mehranredrose">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
 ----
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
