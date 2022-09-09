@@ -16,14 +16,13 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+</div>
 - 🔭 I’m currently working on **Pyqt6**
 
 - 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **mehranredrose@gmail.com**
   <p align="left"> <a href="https://twitter.com/mehranredrose" target="blank"><img src="https://img.shields.io/twitter/follow/mehranredrose?logo=twitter&style=for-the-badge" alt="mehranredrose" /></a> </p>
-</div>
-
 
 
 
@@ -44,7 +43,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mehranredrose"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mehranredrose" /></a></p><br><br>
-<a href="https://github.com/mehranredrose" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg" alt="mehranredrose" height="30" width="40" /></a>
+<a href="https://github.com/mehranredrose" target="blank"><img align="center" src="https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg" alt="mehranredrose"/></a>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehranredrose&show_icons=true&locale=en&layout=compact" alt="mehranredrose" /></p>
