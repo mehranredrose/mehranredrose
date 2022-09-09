@@ -6,14 +6,14 @@
   <a href="www.linkedin.com/in/mehranredrose">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    ![mehranredrose](https://img.shields.io/badge/-MehranRedRose-black?style=for-the-badge&logo=Buy%20Me%20A%20Coffee&logoColor=gold)
+  <a href="#">
+      <img src="https://img.shields.io/badge/-MehranRedRose-black?style=for-the-badge&logo=Buy%20Me%20A%20Coffee&logoColor=gold" alt="RedRose"/>
   </a>
   <a href="https://twitter.com/Mehranredrose">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-----
+
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
