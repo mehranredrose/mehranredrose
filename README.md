@@ -18,7 +18,6 @@
 </h1>
 </div>
 <div>
-  - 🔭 I’m currently working on **Pyqt6**
 
 - 🌱 I’m currently learning **Django**
 
