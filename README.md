@@ -21,6 +21,11 @@ Docker | Git | Linux | CI/CD
 
 ---
 
+### Now Playing on Spotify
+<!-- SPOTIFY -->Loading...<!-- END_SPOTIFY -->
+
+---
+
 
 ## Let's Connect
 <p align="center">
