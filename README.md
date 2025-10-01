@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [Biomes](https://open.spotify.com/track/5PSaVasleQvJZ2mDN83Ixr) — James Heather<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [No Place on Earth](https://open.spotify.com/track/1CNR3DbhFfiRYEy1KQSI11) — Tony Anderson<!-- END_SPOTIFY -->
 
 ---
 
