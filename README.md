@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->Not playing anything 🎧<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Biomes](https://open.spotify.com/track/5PSaVasleQvJZ2mDN83Ixr) — James Heather<!-- END_SPOTIFY -->
 
 ---
 
