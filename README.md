@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->Not playing anything 🎧<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [People](https://open.spotify.com/track/4WjBrC6UgK2BVI0bnkMAtJ) — Kat Frankie<!-- END_SPOTIFY -->
 
 ---
 
