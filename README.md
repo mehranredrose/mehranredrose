@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [Back to Black - Film Black Version](https://open.spotify.com/track/3fNnA3qvPkRdu6tsuNpnsX) — Oscar and the Wolf, Tsar B<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->Not playing anything 🎧<!-- END_SPOTIFY -->
 
 ---
 
