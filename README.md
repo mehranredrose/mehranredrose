@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->Not playing anything 🎧<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Vi Nå](https://open.spotify.com/track/47CG5ncPVVKUxCbZCDQYEc) — Finnebassen<!-- END_SPOTIFY -->
 
 ---
 
