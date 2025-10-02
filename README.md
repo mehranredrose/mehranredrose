@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [People](https://open.spotify.com/track/4WjBrC6UgK2BVI0bnkMAtJ) — Kat Frankie<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Back to Black - Film Black Version](https://open.spotify.com/track/3fNnA3qvPkRdu6tsuNpnsX) — Oscar and the Wolf, Tsar B<!-- END_SPOTIFY -->
 
 ---
 
