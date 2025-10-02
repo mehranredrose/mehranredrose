@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [Waves](https://open.spotify.com/track/3yr2wF4VKklVR24C2UOJrd) — Aisling Brouwer, Anna Phoebe, AVAWAVES<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Infinity](https://open.spotify.com/track/5kHRSlSIBSBaFUveBQq4x7) — Seven24, S.A.T, Allam<!-- END_SPOTIFY -->
 
 ---
 
