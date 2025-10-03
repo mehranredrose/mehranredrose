@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [Awaken](https://open.spotify.com/track/5TI4217uJBF9fl4iJf3EgI) — Onoychenko<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Für Alina - Extended Version](https://open.spotify.com/track/2Lio4KTzsA8BPLhXmyo4CQ) — Arvo Pärt, Alexander Malter<!-- END_SPOTIFY -->
 
 ---
 
