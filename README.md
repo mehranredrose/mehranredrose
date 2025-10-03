@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [The Stars We Follow](https://open.spotify.com/track/1OjJsjcatXLusDH4E3f4gH) — Federico Albanese<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Cracked Mirrors And Stopped Clocks](https://open.spotify.com/track/3jNxXMHxMSeY8b30z02JOF) — Origamibiro<!-- END_SPOTIFY -->
 
 ---
 
