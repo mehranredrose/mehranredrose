@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [Infinity](https://open.spotify.com/track/5kHRSlSIBSBaFUveBQq4x7) — Seven24, S.A.T, Allam<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [The Stars We Follow](https://open.spotify.com/track/1OjJsjcatXLusDH4E3f4gH) — Federico Albanese<!-- END_SPOTIFY -->
 
 ---
 
