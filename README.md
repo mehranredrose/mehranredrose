@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->Not playing anything 🎧<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Direct Voice](https://open.spotify.com/track/6shNkNe4EwwzT5ajd5G8rd) — Origamibiro<!-- END_SPOTIFY -->
 
 ---
 
