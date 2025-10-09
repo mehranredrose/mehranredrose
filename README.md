@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [She Remembers](https://open.spotify.com/track/3JggEa7I7tBPQhiOfexL6U) — Max Richter<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->Not playing anything 🎧<!-- END_SPOTIFY -->
 
 ---
 
