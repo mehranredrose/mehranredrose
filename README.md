@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->Not playing anything 🎧<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [My Friend the Forest](https://open.spotify.com/track/7B0ofCHeQu2FoX7P28ZaPp) — Nils Frahm<!-- END_SPOTIFY -->
 
 ---
 
