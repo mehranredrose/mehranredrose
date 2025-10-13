@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [Love <!-- SPOTIFY -->🎶 [Lunar Ice Flows (Prelude)](https://open.spotify.com/track/3vJa3vl9FzX1gynrW2APo5) — James Heather<!-- END_SPOTIFY --> Hate - Live From Spotify London](https://open.spotify.com/track/2TWG1zX5vzOD2aJxfJ5W5U) — Michael Kiwanuka<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [The Valley - Uats Version](https://open.spotify.com/track/3nQOaLIih4Ltadwer5R3eW) — Diary Of Dreams<!-- END_SPOTIFY -->
 
 ---
 
