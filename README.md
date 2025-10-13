@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->Not playing anything 🎧<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Palemote](https://open.spotify.com/track/5YfHIAkSRdaBUKomvJWj3c) — Slow Meadow<!-- END_SPOTIFY -->
 
 ---
 
