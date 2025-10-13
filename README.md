@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [Nocturne in Paris](https://open.spotify.com/track/5Cc2v7fm2cCm5ux4fgCQpM) — Tony Anderson<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->Not playing anything 🎧<!-- END_SPOTIFY -->
 
 ---
 
