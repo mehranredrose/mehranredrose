@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->Not playing anything 🎧<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Eschaton](https://open.spotify.com/track/1khyaJ61tkU5B8ngCrymnj) — Tony Anderson, Christopher Dennis Coleman<!-- END_SPOTIFY -->
 
 ---
 
