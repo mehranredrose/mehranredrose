@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [Palemote](https://open.spotify.com/track/5YfHIAkSRdaBUKomvJWj3c) — Slow Meadow<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Lunar Ice Flows (Prelude)](https://open.spotify.com/track/3vJa3vl9FzX1gynrW2APo5) — James Heather<!-- END_SPOTIFY -->
 
 ---
 
