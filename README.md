@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [We Were There](https://open.spotify.com/track/1uwKP0GLOEadApXpoMqynE) — Federico Albanese<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Nuit](https://open.spotify.com/track/154Kvz7UJ5A2dvD7sTjsEM) — Tony Anderson, Bonnie Brooksbank, Lara Somogyi, Christopher Dennis Coleman, Timbre<!-- END_SPOTIFY -->
 
 ---
 
