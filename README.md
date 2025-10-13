@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [The Valley - Uats Version](https://open.spotify.com/track/3nQOaLIih4Ltadwer5R3eW) — Diary Of Dreams<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Für Alina - Extended Version](https://open.spotify.com/track/2Lio4KTzsA8BPLhXmyo4CQ) — Arvo Pärt, Alexander Malter<!-- END_SPOTIFY -->
 
 ---
 
