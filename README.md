@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [Arpège](https://open.spotify.com/track/5ogzpovoJiTz811kwHeyDB) — Tony Anderson, Bonnie Brooksbank<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Prelude to a Soul](https://open.spotify.com/track/32BlfIiOChEnxe7JoiIkYy) — Sebastian Plano<!-- END_SPOTIFY -->
 
 ---
 
