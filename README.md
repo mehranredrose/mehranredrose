@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->Not playing anything 🎧<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Arpège](https://open.spotify.com/track/5ogzpovoJiTz811kwHeyDB) — Tony Anderson, Bonnie Brooksbank<!-- END_SPOTIFY -->
 
 ---
 
