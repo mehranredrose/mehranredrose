@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->Not playing anything 🎧<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [I Exist I Exist I Exist](https://open.spotify.com/track/0nO25NiPrKX64oy7lz5ZaJ) — Flatsound<!-- END_SPOTIFY -->
 
 ---
 
