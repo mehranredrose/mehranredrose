@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->Not playing anything 🎧<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Éxta](https://open.spotify.com/track/5JRYIhpTDNllliEycqWg0v) — Sebastian Plano<!-- END_SPOTIFY -->
 
 ---
 
