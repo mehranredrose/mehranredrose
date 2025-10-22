@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->Not playing anything 🎧<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [The Poet](https://open.spotify.com/track/1TasVKFOauu8ghLg7oZMdX) — Bruno Sanfilippo<!-- END_SPOTIFY -->
 
 ---
 
