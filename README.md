@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [Flora](https://open.spotify.com/track/1fb7jUF6fUYytD3h7eW11m) — Ludovico Einaudi<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Glimmer](https://open.spotify.com/track/5iqdZaQrlC4RoGunG5TgHM) — James Heather<!-- END_SPOTIFY -->
 
 ---
 
