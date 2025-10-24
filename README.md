@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->Not playing anything 🎧<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Purples (Epilogue Version)](https://open.spotify.com/track/6wuk6H8FEuI9o5rePy4sA6) — Sebastian Plano<!-- END_SPOTIFY -->
 
 ---
 
