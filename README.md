@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [LAMS](https://open.spotify.com/track/1CPe7uw5tXP1E1NvTDGyBG) — Bahram<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Motenaferam](https://open.spotify.com/track/5OeOkRXusvsFX2xUUYJec5) — Shahin Najafi<!-- END_SPOTIFY -->
 
 ---
 
