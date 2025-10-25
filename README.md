@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [Motenaferam](https://open.spotify.com/track/5OeOkRXusvsFX2xUUYJec5) — Shahin Najafi<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Otaghe Abi](https://open.spotify.com/track/0HCrJFt7n0TW7G31lTF6Hs) — The Ways<!-- END_SPOTIFY -->
 
 ---
 
