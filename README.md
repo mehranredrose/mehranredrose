@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [Aureliano](https://open.spotify.com/track/60XIYJujYguSNNrvGwc9Ew) — Shahin Najafi<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [LAMS](https://open.spotify.com/track/1CPe7uw5tXP1E1NvTDGyBG) — Bahram<!-- END_SPOTIFY -->
 
 ---
 
