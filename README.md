@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->Not playing anything 🎧<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [To Rafti](https://open.spotify.com/track/5OnKT0AJbGZXdMzLaDIOgM) — Kaveh Afagh<!-- END_SPOTIFY -->
 
 ---
 
