@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [Shabaneh, Pt. 2](https://open.spotify.com/track/1ZZgE5v850kpe6qrmSp1a8) — Farhad Mehrad<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Ey To Ziba](https://open.spotify.com/track/4QAGEoifnlpfYCvCVFJ5Ma) — Kaveh Afagh<!-- END_SPOTIFY -->
 
 ---
 
