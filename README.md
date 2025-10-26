@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [Bonbast](https://open.spotify.com/track/2qznH0xL40dxXCiAwC70pJ) — Sirvan Khosravi<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Aram](https://open.spotify.com/track/18PsBj9jAAnxb8KPoPQu9K) — Shahin Najafi<!-- END_SPOTIFY -->
 
 ---
 
