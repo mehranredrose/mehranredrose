@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->Not playing anything 🎧<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Bonbast](https://open.spotify.com/track/2qznH0xL40dxXCiAwC70pJ) — Sirvan Khosravi<!-- END_SPOTIFY -->
 
 ---
 
