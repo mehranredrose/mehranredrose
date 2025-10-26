@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [Aram](https://open.spotify.com/track/18PsBj9jAAnxb8KPoPQu9K) — Shahin Najafi<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Shabaneh, Pt. 2](https://open.spotify.com/track/1ZZgE5v850kpe6qrmSp1a8) — Farhad Mehrad<!-- END_SPOTIFY -->
 
 ---
 
