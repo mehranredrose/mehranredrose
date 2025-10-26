@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [Ey To Ziba](https://open.spotify.com/track/4QAGEoifnlpfYCvCVFJ5Ma) — Kaveh Afagh<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->Not playing anything 🎧<!-- END_SPOTIFY -->
 
 ---
 
