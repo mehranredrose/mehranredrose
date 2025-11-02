@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->Not playing anything 🎧<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [DardoKhand](https://open.spotify.com/track/160pqfJv2f6Wk8QhDa69Fn) — Taham<!-- END_SPOTIFY -->
 
 ---
 
