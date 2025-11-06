@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->Not playing anything 🎧<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [U and I](https://open.spotify.com/track/3qMTKtCkZgyFIrAETBstCs) — HAMEX, 4FINGER<!-- END_SPOTIFY -->
 
 ---
 
