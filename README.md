@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [Absent Minded](https://open.spotify.com/track/7HhupveMg6OAHHpQUBqSWk) — Gabríel Ólafs<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Ecartele: Less than a Year](https://open.spotify.com/track/5su3HmfnFlFVwnR7Ap2tkU) — Damian Marhulets, Szymanowski Quartet, Marina Baranova<!-- END_SPOTIFY -->
 
 ---
 
