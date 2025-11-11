@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->Not playing anything 🎧<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Absent Minded](https://open.spotify.com/track/7HhupveMg6OAHHpQUBqSWk) — Gabríel Ólafs<!-- END_SPOTIFY -->
 
 ---
 
