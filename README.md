@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [Ecartele: Less than a Year](https://open.spotify.com/track/5su3HmfnFlFVwnR7Ap2tkU) — Damian Marhulets, Szymanowski Quartet, Marina Baranova<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->Not playing anything 🎧<!-- END_SPOTIFY -->
 
 ---
 
