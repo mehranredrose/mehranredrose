@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [Love <!-- SPOTIFY -->Not playing anything 🎧<!-- END_SPOTIFY --> Hate - Live From Spotify London](https://open.spotify.com/track/2TWG1zX5vzOD2aJxfJ5W5U) — Michael Kiwanuka<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Happy](https://open.spotify.com/track/050yrnIvcYXX84seDeNWoE) — Kat Frankie<!-- END_SPOTIFY -->
 
 ---
 
