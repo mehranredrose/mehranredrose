@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [Happy](https://open.spotify.com/track/050yrnIvcYXX84seDeNWoE) — Kat Frankie<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [You're Mine (Original Mix)](https://open.spotify.com/track/1RYfYJJFJiEWTQeyjXN9Up) — Oscar and the Wolf, Raving George<!-- END_SPOTIFY -->
 
 ---
 
