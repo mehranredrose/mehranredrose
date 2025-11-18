@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [You're Mine (Original Mix)](https://open.spotify.com/track/1RYfYJJFJiEWTQeyjXN9Up) — Oscar and the Wolf, Raving George<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [The Blues](https://open.spotify.com/track/3cH79PK3RTPyynEmeDq70G) — Hindi Zahra<!-- END_SPOTIFY -->
 
 ---
 
