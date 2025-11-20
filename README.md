@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [We Were There](https://open.spotify.com/track/1uwKP0GLOEadApXpoMqynE) — Federico Albanese<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->Not playing anything 🎧<!-- END_SPOTIFY -->
 
 ---
 
