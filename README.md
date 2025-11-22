@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->Not playing anything 🎧<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [The Hourglass](https://open.spotify.com/track/4ItlT6P6bqXExYKucl7agn) — Ben Crosland<!-- END_SPOTIFY -->
 
 ---
 
