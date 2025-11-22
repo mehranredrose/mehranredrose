@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->Not playing anything 🎧<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Ghosts in the Brazos](https://open.spotify.com/track/1TxoFi0u3fjbnRO1qIiY6C) — Slow Meadow<!-- END_SPOTIFY -->
 
 ---
 
