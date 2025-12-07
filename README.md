@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [My Way](https://open.spotify.com/track/1dYNhPPSM9S9NYWZb52m1k) — Luca D'Alberto<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Blueprint](https://open.spotify.com/track/64zDO8hP3ixJxxCbcWKpnr) — James Heather<!-- END_SPOTIFY -->
 
 ---
 
