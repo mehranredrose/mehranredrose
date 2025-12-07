@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->Not playing anything 🎧<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Like Foam](https://open.spotify.com/track/13uCWi9YWDJcpD2X8tD5ir) — Dmitry Evgrafov<!-- END_SPOTIFY -->
 
 ---
 
