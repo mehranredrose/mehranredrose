@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->Not playing anything 🎧<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [The Blue Hour](https://open.spotify.com/track/2JNL7W1eQcA2SWFcOONIUJ) — Federico Albanese<!-- END_SPOTIFY -->
 
 ---
 
