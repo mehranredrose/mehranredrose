@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->Not playing anything 🎧<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Hey Now](https://open.spotify.com/track/28cA6WKdOIrJB6wqTkgtLi) — London Grammar<!-- END_SPOTIFY -->
 
 ---
 
