@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [Glimpse of Us](https://open.spotify.com/track/2mlNgAeIBnL78ZriXgrRHz) — Joji<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Endless...](https://open.spotify.com/track/6o00N22CZ9iy6XtCFSLOc1) — Thurisaz<!-- END_SPOTIFY -->
 
 ---
 
