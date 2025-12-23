@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [Bad](https://open.spotify.com/track/7f9gkKf22mLZ8wKPNmq8Mw) — Shahin Najafi<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Cracked Mirrors And Stopped Clocks](https://open.spotify.com/track/3jNxXMHxMSeY8b30z02JOF) — Origamibiro<!-- END_SPOTIFY -->
 
 ---
 
