@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [Cracked Mirrors And Stopped Clocks](https://open.spotify.com/track/3jNxXMHxMSeY8b30z02JOF) — Origamibiro<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [For Now](https://open.spotify.com/track/01tVsC6S6Vatneix7mP3XM) — Thomas Feiner, Anywhen<!-- END_SPOTIFY -->
 
 ---
 
