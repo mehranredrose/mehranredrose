@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [Unravelled In Wreathes](https://open.spotify.com/track/7EHnEJmNRWdAIHo6ba4Hxc) — Origamibiro<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Motenaferam](https://open.spotify.com/track/5OeOkRXusvsFX2xUUYJec5) — Shahin Najafi<!-- END_SPOTIFY -->
 
 ---
 
