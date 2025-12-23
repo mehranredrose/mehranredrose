@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [Apocalypse](https://open.spotify.com/track/1oAwsWBovWRIp7qLMGPIet) — Cigarettes After Sex<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Swimming with the Crocodiles](https://open.spotify.com/track/0528PcKevJcUWxAsMFxYKJ) — The Veils<!-- END_SPOTIFY -->
 
 ---
 
