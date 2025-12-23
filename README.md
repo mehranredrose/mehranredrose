@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [Endless...](https://open.spotify.com/track/6o00N22CZ9iy6XtCFSLOc1) — Thurisaz<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Bad](https://open.spotify.com/track/7f9gkKf22mLZ8wKPNmq8Mw) — Shahin Najafi<!-- END_SPOTIFY -->
 
 ---
 
