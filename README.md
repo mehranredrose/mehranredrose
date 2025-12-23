@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [Addicted](https://open.spotify.com/track/2nCL4jSUB2iLfySrjVTWgj) — One True God<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Unravelled In Wreathes](https://open.spotify.com/track/7EHnEJmNRWdAIHo6ba4Hxc) — Origamibiro<!-- END_SPOTIFY -->
 
 ---
 
