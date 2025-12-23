@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [All Alone](https://open.spotify.com/track/1HiK5wVJbbNpYDonpsXvPf) — David O'Dowda<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [505](https://open.spotify.com/track/0BxE4FqsDD1Ot4YuBXwAPp) — Arctic Monkeys<!-- END_SPOTIFY -->
 
 ---
 
