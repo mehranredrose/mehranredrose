@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [Swimming with the Crocodiles](https://open.spotify.com/track/0528PcKevJcUWxAsMFxYKJ) — The Veils<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [All Alone](https://open.spotify.com/track/1HiK5wVJbbNpYDonpsXvPf) — David O'Dowda<!-- END_SPOTIFY -->
 
 ---
 
