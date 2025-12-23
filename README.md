@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [Motenaferam](https://open.spotify.com/track/5OeOkRXusvsFX2xUUYJec5) — Shahin Najafi<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Love <!-- SPOTIFY -->🎶 [Motenaferam](https://open.spotify.com/track/5OeOkRXusvsFX2xUUYJec5) — Shahin Najafi<!-- END_SPOTIFY --> Hate - Live From Spotify London](https://open.spotify.com/track/2TWG1zX5vzOD2aJxfJ5W5U) — Michael Kiwanuka<!-- END_SPOTIFY -->
 
 ---
 
