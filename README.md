@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->Not playing anything 🎧<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Addicted](https://open.spotify.com/track/2nCL4jSUB2iLfySrjVTWgj) — One True God<!-- END_SPOTIFY -->
 
 ---
 
