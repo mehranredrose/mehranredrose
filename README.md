@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [For Now](https://open.spotify.com/track/01tVsC6S6Vatneix7mP3XM) — Thomas Feiner, Anywhen<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Apocalypse](https://open.spotify.com/track/1oAwsWBovWRIp7qLMGPIet) — Cigarettes After Sex<!-- END_SPOTIFY -->
 
 ---
 
