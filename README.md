@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->Not playing anything 🎧<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [I'm Into You](https://open.spotify.com/track/4lfJz3pfJ8ChX2doQxIXjV) — Chet Faker<!-- END_SPOTIFY -->
 
 ---
 
