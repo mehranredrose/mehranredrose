@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [To Speak Of Solitude](https://open.spotify.com/track/5mjfIZabc3GGbIYtBa6VEw) — Brambles<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [She Said](https://open.spotify.com/track/6tCJZckBfMD8C9XN0PZEc8) — Cedric Vermue<!-- END_SPOTIFY -->
 
 ---
 
