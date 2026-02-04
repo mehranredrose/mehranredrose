@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->Not playing anything 🎧<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [You Belong 2 Me <3](https://open.spotify.com/track/1ccSpPl9wS784fYgEGYc4T) — tobi lou<!-- END_SPOTIFY -->
 
 ---
 
