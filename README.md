@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [You Belong 2 Me <3](https://open.spotify.com/track/1ccSpPl9wS784fYgEGYc4T) — tobi lou<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Epikur - Original](https://open.spotify.com/track/5XxFY11r0YA6Xoyh1O9WsR) — David August<!-- END_SPOTIFY -->
 
 ---
 
