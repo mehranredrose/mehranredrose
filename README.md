@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->Not playing anything 🎧<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Esalat](https://open.spotify.com/track/0I4FDDNlSdZMqKLoimDiqe) — Yas<!-- END_SPOTIFY -->
 
 ---
 
