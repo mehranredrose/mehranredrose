@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->Not playing anything 🎧<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [i was only temporary (Slowed + Reverb)](https://open.spotify.com/track/4XAilWzhZM0uyR4vtERfHi) — my head is empty<!-- END_SPOTIFY -->
 
 ---
 
