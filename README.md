@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->Not playing anything 🎧<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [The Big Picture](https://open.spotify.com/track/2fJmpsbjivx1mT5OCfcGvZ) — Last Train<!-- END_SPOTIFY -->
 
 ---
 
