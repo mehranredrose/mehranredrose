@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->🎶 [Golden Songs](https://open.spotify.com/track/5lm0T8DfaVOK4HWCmEXvPw) — Last Train<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->Not playing anything 🎧<!-- END_SPOTIFY -->
 
 ---
 
