@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->Not playing anything 🎧<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Sad Man On The Train](https://open.spotify.com/track/37ikBo7rh8NxmWNIBBRcNq) — Tomasz Bednarczyk<!-- END_SPOTIFY -->
 
 ---
 
