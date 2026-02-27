@@ -22,7 +22,7 @@ Docker | Git | Linux | CI/CD
 ---
 
 ### Now Playing on Spotify
-<!-- SPOTIFY -->Not playing anything 🎧<!-- END_SPOTIFY -->
+<!-- SPOTIFY -->🎶 [Weak Me](https://open.spotify.com/track/0h1VSMbSfan2D4Bkmq2sY7) — Daigo Hanada<!-- END_SPOTIFY -->
 
 ---
 
