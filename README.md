@@ -1,4 +1,4 @@
-<h1 align="center">Mehran RedRose</h1>
+<h1 align="center">Mehran Abbasi</h1>
 <h3 align="center">Software Engineer | Problem Solver | Builder of Clean & Impactful Code</h3>
 
 ---
