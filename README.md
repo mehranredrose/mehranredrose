@@ -1,39 +1,17 @@
-<h1 align="center">Mehran Abbasi</h1>
-<h3 align="center">Software Engineer | Problem Solver | Builder of Clean & Impactful Code</h3>
+### Mehran Abbasi
+Software engineer. Python · Go · JS.
+Clean code. Scalable systems. No bullshit.
+Open to collabs and cool problems.
 
----
-
-## About Me
-I turn ideas into software. I love tackling complex problems and creating elegant, maintainable solutions.  
-Currently diving deep into **Python, Golang, and JavaScript**, building full-stack projects, and leveling up as a software engineer.  
-
-- Passionate about **clean architecture**, **scalable systems**, and **automation**.  
-- Always exploring new tech, new challenges, and ways to do more with less.  
-- A believer that **good code is art**.  
-
----
-
-## What I Work With
-Python | Golang | JavaScript  
-Django | React | Node.js  
-PostgreSQL | MySQL | Redis  
-Docker | Git | Linux | CI/CD  
-
----
-
-### Now Playing on Spotify
-<!-- SPOTIFY -->Not playing anything 🎧<!-- END_SPOTIFY -->
-
----
-
-
-## Let's Connect
 <p align="center">
-<a href="https://www.linkedin.com/in/mehranredrose" target="_blank">LinkedIn</a> •
-<a href="mailto:mehranredrose@gmail.com" target="_blank">Email</a> •
-<a href="https://twitter.com/mehranredrose" target="_blank">Twitter</a>
+  <a href="https://twitter.com/mehranredrose"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
+  &nbsp;•&nbsp;
+  <a href="mailto:mehranredrose@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/mehranredrose"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
----
 
-> “I don’t just write code—I **make it iconic**.” 💥
+> ┌─[ now ] 
+> <!-- SPOTIFY --> └──◆paused<!-- END SPOTIFY -->
+> *"Make it work, make it right, make it fast."*
